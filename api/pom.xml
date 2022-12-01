@@ -80,7 +80,7 @@
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>jib-maven-plugin</artifactId>
-                <version>3.1.4</version>
+                <version>3.3.1</version>
                 <configuration>
                     <from>
                         <image>registry://jianmudev/openjdk:11.0.11-jdk-oracle-wait-for-it</image>
